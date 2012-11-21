@@ -33,5 +33,9 @@
 	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/taobao-sdk-java-jichukaifang-20121120.jar" sourcepath="source/taobao-sdk-java-jichukaifang-20121120-source.jar"/>
 	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/taobao-sdk-java-online_standard-20121120.jar" sourcepath="source/taobao-sdk-java-online_standard-20121120-source.jar"/>
 	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/taobao-sdk-java-auto_1353403340035-20121121.jar" sourcepath="source/taobao-sdk-java-auto_1353403340035-20121121-source.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/freemarker-2.3.8.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/struts2-core-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/struts2-json-plugin-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/xwork-core-2.3.1.2.jar"/>
 	<classpathentry kind="output" path="ROOT/WEB-INF/classes"/>
 </classpath>

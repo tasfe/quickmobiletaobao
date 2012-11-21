@@ -1,6 +1,6 @@
-package com.csssj.taobao.servlet;
+package com.csssj.taobao.action;
 
-public class AdminServlet extends BaseServlet {
+public class AdminAction extends BaseAction {
 
 	/**
 	 * 

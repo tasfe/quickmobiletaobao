@@ -5,13 +5,12 @@
 <struts>
 <!-- 	<constant name="struts.devMode" value="true" /> -->
 <constant name="struts.devMode" value="false" /> 
-<constant name="struts.custom.i18n.resources" value="applicationResource"></constant>
 	<constant name="struts.i18n.encoding" value="utf-8"></constant>
 	<constant name="struts.action.extension" value="action,do"></constant>
 	<constant name="struts.multipart.maxSize" value="10485760"/>
 	<constant name="struts.action.excludePattern" value="/js/.*?,/skins/.*?,/images/.*?,/css/.*?,/servlet/.*?,/exclude/.*?,/res/.*?"/>   
 	
-	<package name="pim_yunying" namespace="/" extends="json-default">
+	<package name="pim_yunying" namespace="/" extends="struts-default">
 
 		<global-results>
 			<result name="error" >/e500.jsp</result>
@@ -21,6 +20,9 @@
 		<global-exception-mappings>
 				<exception-mapping result="error" exception="java.lang.Exception"></exception-mapping>
 		</global-exception-mappings>
+		<action name="Front*" class="com.csssj.taobao.action.FrontAction" method="{1}">
+			<result name="show">/FrontShow.jsp</result>
+		</action>
 		
 	</package>
 </struts>

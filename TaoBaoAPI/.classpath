@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/asm.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-httpclient-3.1.jar" sourcepath="d:/backup/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/jta.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/mm.mysql-2.0.14-you-must-unjar-me.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/proxool-0.9.1.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/proxool-cglib.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-chain-1.1.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-fileupload-1.2.2.jar" sourcepath="d:/backup/.m2/repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2-sources.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-logging-1.1.1.jar" sourcepath="d:/backup/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/my-pub-util.jar" sourcepath="E:/工作/jar/my-pub-util.zip"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/jcommon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/taobao-sdk-java-jichukaifang-20121120.jar" sourcepath="source/taobao-sdk-java-jichukaifang-20121120-source.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/taobao-sdk-java-online_standard-20121120.jar" sourcepath="source/taobao-sdk-java-online_standard-20121120-source.jar"/>
+	<classpathentry kind="lib" path="ROOT/WEB-INF/lib/taobao-sdk-java-auto_1353403340035-20121121.jar" sourcepath="source/taobao-sdk-java-auto_1353403340035-20121121-source.jar"/>
+	<classpathentry kind="output" path="ROOT/WEB-INF/classes"/>
+</classpath>
